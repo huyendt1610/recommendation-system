@@ -40,7 +40,8 @@ To run the notebooks, you will need:
 Install dependencies (example):
 
 ```bash
-pip install pyspark notebook
+pip install pyspark
+```
 
 What You’ll Learn
 
