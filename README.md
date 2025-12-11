@@ -54,3 +54,5 @@ What You’ll Learn
 ALS (Alternating Least Squares) is one of the most common matrix factorization techniques used in recommendation systems (implicit and explicit feedback).
 
 This repo focuses on using PySpark’s MLlib implementation of ALS.
+
+[Collaborative và content-based filtering](https://phamdinhkhanh.github.io/2019/11/04/Recommendation_Compound_Part1.html)
